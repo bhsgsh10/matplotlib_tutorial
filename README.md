@@ -25,8 +25,10 @@ settings). We are certain of a fire if this value is saturated.
 2.1 Do a small multiples plot of whether the brightness is saturated, i.e. do one plot of lat vs
 long for those points with brightness saturated and a separate for those who are not (within the
 same figure on separate axes). You can pick any of the methods from 1.1 that you find most
-suitable. Can you spot differences in the distributions?    
+suitable. Can you spot differences in the distributions?  
+
 2.2 Plot both groups in the same axes with different colors. Try changing the order of plotting
 the two classes (i.e. draw the saturated first then the non-saturated or the other way around).  
-Make sure to include a legend. How does that impact the result?   
+Make sure to include a legend. How does that impact the result?  
+
 2.3 Can you find a better way to compare the two distributions? 
